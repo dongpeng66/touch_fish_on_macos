@@ -26,4 +26,4 @@ flutter:
 
 我们来观察一下 macOS 的启动画面，有几个要点：
 
-![防止崩溃输出日志.png](https://github.com/dongpeng66/AvoidCrashDeom/blob/main/AvoidCrashDemo/Screenshot/防止崩溃的输出日志.png)
+![dddd.png](https://github.com/dongpeng66/touch_fish_on_macos/blob/main/images/dddd.png)
