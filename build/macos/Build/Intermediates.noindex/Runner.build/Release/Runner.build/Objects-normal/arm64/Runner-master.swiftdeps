@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ef1ad0f5d91723d25f29592b87dfeb5ad3b6a36e3771d16b96c3b970e9b94392"
+build_start_time: [1681981156, 166757106]
+build_end_time: [1681981168, 211452960]
+inputs:
+  "/Users/admin/Desktop/ddd/touch_fish_on_macos/macos/Flutter/GeneratedPluginRegistrant.swift": [1681981120, 24521112]
+  "/Users/admin/Desktop/ddd/touch_fish_on_macos/macos/Runner/AppDelegate.swift": [1679506245, 0]
+  "/Users/admin/Desktop/ddd/touch_fish_on_macos/macos/Runner/MainFlutterWindow.swift": [1679506245, 0]
